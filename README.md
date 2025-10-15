@@ -63,12 +63,7 @@ I am a Computer Engineer and Researcher with a focus on **Operations Research** 
 
 ## 📫 Contact
 
-Feel free to reach out for collaborations, research discussions, or project opportunities:
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🔬 ResearchGate: [Your Profile](https://www.researchgate.net/profile/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+Feel free to reach out for collaborations, research discussions, or project opportunities. Find my contact information in the badges at the top of this page.
 
 ---
 
